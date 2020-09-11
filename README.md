@@ -2,7 +2,7 @@
 Template Engine to create and retrieve customer templates.
 
 ### Installation
-Install dependencies through `pip install requirements.txt`
+Install dependencies through `pip install -r requirements.txt`
 
 ### Running
 1. Change directory to `website`.
